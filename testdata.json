@@ -1,0 +1,8 @@
+{
+    "username" : "test@gmail.com",
+    "password" : "root123",
+    "name"     : "test",
+    "interests": ["Selenium","java","RestAssured","testtest"],
+    "gender"   : "male"
+}
+ 
