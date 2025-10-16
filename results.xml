@@ -1,0 +1,20 @@
+<testsuites id="" name="" tests="6" failures="0" skipped="0" errors="0" time="12.789826">
+<testsuite name="login.spec.js" timestamp="2025-10-16T11:45:15.240Z" hostname="chromium" tests="2" failures="0" skipped="0" time="17.89" errors="0">
+<testcase name="Login validations › Login with valid credentials" classname="login.spec.js" time="8.837">
+</testcase>
+<testcase name="Login validations › Login with invalid credentials" classname="login.spec.js" time="9.053">
+</testcase>
+</testsuite>
+<testsuite name="login.spec.js" timestamp="2025-10-16T11:45:15.240Z" hostname="firefox" tests="2" failures="0" skipped="0" time="7.702" errors="0">
+<testcase name="Login validations › Login with valid credentials" classname="login.spec.js" time="3.686">
+</testcase>
+<testcase name="Login validations › Login with invalid credentials" classname="login.spec.js" time="4.016">
+</testcase>
+</testsuite>
+<testsuite name="login.spec.js" timestamp="2025-10-16T11:45:15.240Z" hostname="webkit" tests="2" failures="0" skipped="0" time="3.179" errors="0">
+<testcase name="Login validations › Login with valid credentials" classname="login.spec.js" time="1.47">
+</testcase>
+<testcase name="Login validations › Login with invalid credentials" classname="login.spec.js" time="1.709">
+</testcase>
+</testsuite>
+</testsuites>
